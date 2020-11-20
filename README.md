@@ -12,13 +12,13 @@
 
 
 ### 000  Temeller <br>
-### 100  Matematik-İstatistik <br>
-### 200  Programlama <br>
-### 300  Makine Öğrenmesi <br>
-### 400  Veri Görselleştirme <br>
-### 500  Büyük Veri <br>
-### 600  Araçlar <br>
-### 700  Doğal Dil İşleme/Metin Madenciliği <br>
-### 800  Yapay Sinir Ağları/Derin Öğrenme <br>
+### 100  Araçlar <br>
+### 200  Matematik-İstatistik <br>
+### 300  Programlama(Python,Sql,R...) <br>
+### 400  Makine Öğrenmesi <br>
+### 500  Veri Görselleştirme <br>
+### 600  Yapay Sinir Ağları/Derin Öğrenme <br>
+### 700  Büyük Veri <br>
+### 800  Doğal Dil İşleme/Metin Madenciliği <br>
 ### 900  Ekstra <br>
 ### 1000 Veri Mühendisliği <br>
