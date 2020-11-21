@@ -18,7 +18,6 @@
 ### 400  Makine Öğrenmesi <br>
 ### 500  Veri Görselleştirme <br>
 ### 600  Yapay Sinir Ağları/Derin Öğrenme <br>
-### 700  Büyük Veri <br>
-### 800  Doğal Dil İşleme/Metin Madenciliği <br>
+### 700  Doğal Dil İşleme/Metin Madenciliği <br>
+### 800  Büyük Veri <br>
 ### 900  Ekstra <br>
-### 1000 Veri Mühendisliği <br>
