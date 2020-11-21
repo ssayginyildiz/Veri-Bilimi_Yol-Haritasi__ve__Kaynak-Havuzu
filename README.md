@@ -15,8 +15,12 @@
 ### 001 Veri Bilimi Nedir? <br>
 ### 002 Veri Bilimi Örnek Projeler
 ## 100  Araçlar <br>
+### 101 Jupyter Notebook
+### 102 Anaconda <br>
 ## 200  Matematik-İstatistik <br>
+### 201 Lineer Cebir <br>
 ## 300  Programlama(Python,Sql,R...) <br>
+### 301 Python Giriş <br>
 ## 400  Makine Öğrenmesi <br>
 ## 500  Veri Görselleştirme <br>
 ## 600  Yapay Sinir Ağları/Derin Öğrenme <br>
