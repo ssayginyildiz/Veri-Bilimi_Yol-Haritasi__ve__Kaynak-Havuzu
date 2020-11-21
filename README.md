@@ -11,13 +11,15 @@
 
 
 
-### 000  Temeller <br>
-### 100  Araçlar <br>
-### 200  Matematik-İstatistik <br>
-### 300  Programlama(Python,Sql,R...) <br>
-### 400  Makine Öğrenmesi <br>
-### 500  Veri Görselleştirme <br>
-### 600  Yapay Sinir Ağları/Derin Öğrenme <br>
-### 700  Doğal Dil İşleme/Metin Madenciliği <br>
-### 800  Büyük Veri <br>
-### 900  Ekstra <br>
+## 000  Temeller <br>
+### 001 Veri Bilimi Nedir? <br>
+### 002 Veri Bilimi Örnek Projeler
+## 100  Araçlar <br>
+## 200  Matematik-İstatistik <br>
+## 300  Programlama(Python,Sql,R...) <br>
+## 400  Makine Öğrenmesi <br>
+## 500  Veri Görselleştirme <br>
+## 600  Yapay Sinir Ağları/Derin Öğrenme <br>
+## 700  Doğal Dil İşleme/Metin Madenciliği <br>
+## 800  Büyük Veri <br>
+## 900  Ekstra <br>
