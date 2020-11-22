@@ -1,5 +1,5 @@
 ## MAKİNE ÖĞRENMESİ
-Yazı =>[Data Scientist Olmak](https://zekeriyabesiroglu.com/2017/04/08/data-scientist-nedir-nasil-data-scientist-olunur-data-scientist-olmak-icin-ogrenilmesi-gerekenler/) <br>
+Yazı =>[Veri Bilimci Olmak](https://zekeriyabesiroglu.com/2017/04/08/data-scientist-nedir-nasil-data-scientist-olunur-data-scientist-olmak-icin-ogrenilmesi-gerekenler/) <br>
 
 ### Keşifsel Veri Analizi(EDA)
 
@@ -9,17 +9,17 @@ Yazı =>[Python ile Veri Ön İşlemeye Dalış](https://medium.com/@denizkilinc
 
 
 1-----**Corona 2019 Analizi** <br>
-Github  => [Corono Analyse](https://github.com/denizparlak1/datascience-project/tree/master/project-1)
+Github  => [Covid-19 Analizi](https://github.com/denizparlak1/datascience-project/tree/master/project-1)
 <br>
 2-----**Brezilya E-Ticaret Analizi** <br>
-Github  => [Brazilian-E-Commerce-Public-EDA-](https://github.com/yamenkaba/Brazilian-E-Commerce-Public-EDA-)
+Github  => [Brezilya E-ticaret Analizi](https://github.com/yamenkaba/Brazilian-E-Commerce-Public-EDA-)
 <br>
 3-----**Mobil Uygulama Pazar Analizi** <br>
 Yazı =>[App Store’da Ne Tarz Ücretli Bir Uygulama Geliştirilebilir?](https://medium.com/@foreverflash95/eda-app-storeda-ne-tarz-%C3%BCcretli-bir-uygulama-geli%C5%9Ftirilebilir-363cb0fa83a4) <br>
 Github  => [AppleAppStore_EDA](https://github.com/aybukemeydan/AppleAppStore_EDA)
 <br>
 4-----**Airbnb verileri ile Ev Fiyat Analizi** <br>
-Github  => [EDA-Airbnb-London](https://github.com/yalinyener/EDA-Airbnb-London)
+Github  => [AirBnB Londra EDA](https://github.com/yalinyener/EDA-Airbnb-London)
 <br>
 5-----**Youtube İstatisik Analizi** <br>
-Github =>[youtube_statistics](https://github.com/alpercakr/youtube_statistics) <br>
+Github =>[Youtube İstatistikleri](https://github.com/alpercakr/youtube_statistics) <br>
