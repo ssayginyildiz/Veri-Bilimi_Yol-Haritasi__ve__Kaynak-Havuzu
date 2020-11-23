@@ -14,7 +14,7 @@
 ## 000  Temeller <br>
 ### 001 Veri Bilimi Nedir? Veri Bilimci Kimdir? <br>
 ### 002 Veri Bilimi Örnek Projeleri
-### 003 Takip Edilesi...
+### 003 Takip Edilesi Siteler...
 ## 100  Araçlar <br>
 ### 101 Jupyter Notebook
 ### 102 Anaconda <br>
