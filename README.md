@@ -24,6 +24,7 @@
 ### 301 Python Giriş <br>
 ## 400  Makine Öğrenmesi <br>
 ## 500  Veri Görselleştirme <br>
+### 501 Bilinen Görselleştirme Kütüphaneleri
 ## 600  Yapay Sinir Ağları/Derin Öğrenme <br>
 ## 700  Doğal Dil İşleme/Metin Madenciliği <br>
 ## 800  Büyük Veri <br>
