@@ -1,7 +1,11 @@
 ## Hedefler
 
 1-)Basit Genel bir Veri Bilimi Haritası <br>
-2-)Birçok harita incelenerek Özgün/Türkçe bir Veri Haritası
+2-)Birçok harita incelenerek Özgün/Türkçe bir Veri Haritası <br>
+
+## Amaçlarımız 
+
+1. İnternetteki Bilgi/Enformasyon Kirliliğindeki Zaman Kaybını Azaltmak <br>
 
 
 
