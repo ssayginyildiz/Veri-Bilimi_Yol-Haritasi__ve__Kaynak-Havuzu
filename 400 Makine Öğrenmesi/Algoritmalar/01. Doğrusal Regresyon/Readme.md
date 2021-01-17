@@ -1,4 +1,5 @@
-Linear Regression
-Polynomial Regression
-Ridge Regression
-Lasso
+Linear Regression<br>
+Polynomial Regression<br>
+Ridge Regression<br>
+Lasso Regression<br>
+OLS
