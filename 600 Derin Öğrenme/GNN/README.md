@@ -1,1 +1,1 @@
-Graph Neural Network (Grafik Sinir Ağları)
+Graph Neural Networks (Grafik Sinir Ağları)
