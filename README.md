@@ -1,5 +1,4 @@
 ## Hedefler
-123456
 1-)Basit Genel bir Veri Bilimi Haritası <br>
 2-)Birçok harita incelenerek Özgün/Türkçe bir Veri Haritası <br>
 
